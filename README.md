@@ -9,7 +9,7 @@ Interface languages: English, French, German, Spanish, Ukrainian.
 
 Download:
 
-    https://github.com/olegomela/warehouse-releases-deb/releases/tag/v1.4.0
+https://github.com/olegomela/warehouse-releases-deb/releases/tag/v1.4.0
 
 Install (example for version 1.4.0):
 
