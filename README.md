@@ -11,7 +11,7 @@ Download:
 
 https://github.com/olegomela/warehouse-releases-deb/releases/download/v1.4.0/warehouse_1.4.0_amd64.deb
 
-Install (example for version 1.4.0):
+Install:
 
     sudo apt install ./warehouse_1.4.0_amd64.deb
 
