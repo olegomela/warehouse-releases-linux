@@ -3,6 +3,8 @@ Simple Warehouse WMS App - .deb releases
 
 Stable basic WMS functionality (accounting).
 
+Local standalone application.
+
 Local database based on .csv files; preserved when uninstalling/reinstalling the application.
 
 Interface languages: 
