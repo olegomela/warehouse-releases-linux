@@ -16,11 +16,11 @@ Interface languages:
 
 Download:
 
-https://github.com/olegomela/warehouse-releases-deb/releases/download/v1.4.2/warehouse_1.4.1_amd64.deb
+https://github.com/olegomela/warehouse-releases-deb/releases/download/v1.4.2/warehouse_1.4.2_amd64.deb
 
 Install:
 
-    sudo apt install ./warehouse_1.4.1_amd64.deb
+    sudo apt install ./warehouse_1.4.2_amd64.deb
 
 Uninstall:
 
