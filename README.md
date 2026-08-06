@@ -1,5 +1,5 @@
 # warehouse-releases-linux
-Simple Warehouse WMS App - .deb releases
+Simple Warehouse WMS App for Linux - .deb releases
 
 Stable basic WMS functionality (accounting).
 
