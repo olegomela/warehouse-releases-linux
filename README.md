@@ -6,6 +6,7 @@ Stable basic WMS functionality (accounting).
 Local standalone application.
 
 Local database based on .csv files; preserved when uninstalling/reinstalling the application.
+Sample database for reference.
 
 Interface languages: 
   - 🇬🇧 English
@@ -16,11 +17,11 @@ Interface languages:
 
 Download:
 
-https://github.com/olegomela/warehouse-releases-deb/releases/download/v1.4.3/warehouse_1.4.3_amd64.deb
+https://github.com/olegomela/warehouse-releases-deb/releases/download/v1.4.4/warehouse_1.4.4_amd64.deb
 
 Install:
 
-    sudo apt install ./warehouse_1.4.3_amd64.deb
+    sudo apt install ./warehouse_1.4.4_amd64.deb
 
 Uninstall:
 
