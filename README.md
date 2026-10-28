@@ -6,6 +6,7 @@ Stable basic WMS functionality (accounting).
 Local standalone application.
 
 Local database based on .csv files; preserved when uninstalling/reinstalling the application.
+
 Sample database for reference.
 
 Interface languages: 
